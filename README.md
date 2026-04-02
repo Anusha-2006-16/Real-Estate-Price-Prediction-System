@@ -66,7 +66,7 @@ Predicting real estate prices is a complex problem influenced by multiple factor
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/real-estate-price-prediction.git
+git clone https://github.com/Anusha-2006-16/Real-Estate-Price-Prediction-System
 
 # Navigate to project folder
 cd real-estate-price-prediction
